@@ -13,3 +13,8 @@
                             await page.waitForSelector('#password');
                             await page.type('#password', `${password}\n`);
                             await new Promise(resolve => setTimeout(resolve, 1500));
+
+                            await page.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
+                            await page.waitForSelector('#password');
+                            await page.type('#password', `${password}\n`);
+                            await new Promise(resolve => setTimeout(resolve, 1500));
