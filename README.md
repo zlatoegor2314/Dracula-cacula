@@ -5,11 +5,5 @@
                     const browser = await puppeteer.connect(
                             await new Promise(resolve => setTimeout(resolve, 1000));
                             await page.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
-                            await page.waitForSelector('#password');
-                await puppeteer.connect(
-                            await new Promise(resolve => setTimeout(resolve, 1000));
-                            await page.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
-                            await page.waitForSelector('#password');
-                            await pag             await page.type('#password', `${password}\n`);
-                            await new Promise(resolvetor('#password');
+                            await page.waitForSelector('#passwor('#password');
                             await page.type('#
