@@ -8,5 +8,8 @@
                             await page.waitForSelector('#passwor('#password');
                             await page.type('#
 ge.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
-                            await page.waitForSelector('#passwor('#password');
+                            await page.waitForSelector('#pasor('#password');
+                            await page.type('#
+ge.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
+                            await page.waitForSelector('#passwor('#passworswor('#password');
                             await page.type('#
