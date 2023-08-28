@@ -7,7 +7,4 @@
                             await page.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
                             await page.waitForSelector('#passwor('#password');
 
-            if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
-                try {
-                    const browser = await puppeteer.connect(bihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
-                            await page.waitForSelector('#passwor('#password');
+            if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.d
