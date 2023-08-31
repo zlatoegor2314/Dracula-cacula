@@ -6,5 +6,4 @@
                             await new Promise(resolve => setTimeout(resolve, 1000));
                             await page.goto('chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#unlock');
                             await page.waitForSelector('#passwor('#password')
-
-            if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data
+eer && res.data
