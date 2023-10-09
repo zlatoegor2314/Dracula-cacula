@@ -5,8 +5,6 @@ StylishDemon        const profileId = data.iles[i        const profileId = data.
 iles[i].id;
 count_number;= data.profiles[i].id;
         const accountNumber = daa.profiles[i].account_number;
-        const profilePassword = data.profiles[
-count_number;= data.profiles[i].id;
         const accountNumber = daa.profiles[i].account_numb
 iles[i].id;
         const accountNumber = data.profiles[i].account_numb
