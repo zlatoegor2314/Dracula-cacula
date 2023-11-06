@@ -1,4 +1,3 @@
- const profileId = 
 
       "dependsOn": ["^bu
         "../../.cargo/**",
