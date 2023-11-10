@@ -1,7 +1,4 @@
 
-        "../../.cargo/**",
-        "../../packages/next/*
-        "../../**/Cargo.lock"
       ]
       "dependsOn": ["^bu
         "../../.cargo/**",
