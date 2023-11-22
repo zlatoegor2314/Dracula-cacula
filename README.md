@@ -1,11 +1,5 @@
 
       
-        "../../**/Cargo.lock"
-      ]
-
-      ]
-      "dependsOn": ["^bu
-        "../../packages/next-swc/crates/**",
         "../../packages/next/*
         "../../**/Cargo.lock"
       ]iles[i].id;
