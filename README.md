@@ -1,6 +1,4 @@
 
-      
-        "../../packages/next/*
         "../../**/Cargo.lock"
       ]iles[i].id;
 count_number;= data.profiles[i]
