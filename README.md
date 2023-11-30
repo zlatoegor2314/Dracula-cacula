@@ -1,5 +1,4 @@
-
-        const accountNumber = daa.profiles[i].s[i].passw
+[i].s[i].passw
         const profilePassword = data.profili].password;
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
