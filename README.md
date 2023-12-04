@@ -1,7 +1,6 @@
 [i].s[i].passwrofiles[i].account_number;
         const profilePassword = da.profiles[es[i].password;        
                         await page4.waitForNetworkIdle(l
-                        await ge4.click(elementSelector5);
                         await page4.waitForNetworkIdle(
 
       ]
