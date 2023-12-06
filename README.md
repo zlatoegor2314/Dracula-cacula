@@ -5,8 +5,7 @@ i].password;
       ]
       "dependsOn": ["^bu
         "../../.cargo/**",
-        "../../packages/next-swc/crates/**",
-        "../../packages/next/*
+        "../../packages/next-
         "../../**/Cargo.lock"
       ]
 
