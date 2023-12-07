@@ -1,6 +1,4 @@
-i].password;        
-                        await page4.waitForNetworkIdle(l
-                        await page4.waitForNetworkIdle(
+i].password;        e(
 
       ]
       "dependsOn": ["^bu
