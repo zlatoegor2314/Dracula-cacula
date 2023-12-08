@@ -1,8 +1,5 @@
 i].password;        e(
-
-      ]
-      "dependsOn": ["^bu
-        "../../.cargo/**",
+rgo/**",
         "../../packages/next-
         "../../**/Cargo.lock"
       ]
