@@ -1,5 +1,4 @@
-i].password;        e(
-rgo/**",
+
         "../../packages/next-
         "../../**/Cargo.lock"
       ]
