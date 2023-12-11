@@ -1,5 +1,4 @@
 
-        "../../packages/next-
         "../../**/Cargo.lock"
       ]
 
