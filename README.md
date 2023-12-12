@@ -1,6 +1,6 @@
 
         "../../**/Cargo.lock"
-      ]
+      
 
       ]
       "dependsOn": ["^bu
