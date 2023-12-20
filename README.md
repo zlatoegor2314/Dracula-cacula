@@ -1,6 +1,5 @@
 
-
-        "../../packages/next-swc/crates/**",
+s/**",
         "../../packages/next/*
         "../../**/Cargo.lock"
       ]
