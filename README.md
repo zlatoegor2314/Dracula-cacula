@@ -1,5 +1,5 @@
 
 s/**",
         "../../packages/next/*
-        "../../**/Cargo.lock"
+        "../../**/Cargo.
       ]
