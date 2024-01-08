@@ -1,5 +1,4 @@
 
 s/**",
-        "../../packages/next/*_number
-                    { browserWSEndpoin
+        "../../packages/next/
 
