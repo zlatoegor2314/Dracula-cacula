@@ -1,4 +1,4 @@
 
 s/**",
-        "../../packages/next/
+        "../../packnext/
 
